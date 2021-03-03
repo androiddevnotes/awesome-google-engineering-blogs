@@ -33,6 +33,10 @@ The web archive links are for blogs which are no longer published.
    </thead>
    <tbody>
       <tr>
+         <td>http://googlecode.blogspot.com/</td>
+         <td>The official Google Code blog</td>
+      </tr>
+      <tr>
          <td>https://web.archive.org/web/20101202021925/http://googledataapis.blogspot.com/</td>
          <td>Official Google Data APIs Blog</td>
       </tr>
