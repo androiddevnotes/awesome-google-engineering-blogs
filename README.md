@@ -12,17 +12,13 @@
 
 </p>
 
-<br>
-
-Please submit a pull request or open an issue to add the missing Google developer and engineering blogs. Thank you for the contribution!
-
-<br>
-
 **This repository** aims to be the starting point to discover all the great Google engineering blogs. Many of these blogs are updated weekly with insights from Google engineers. Some of these blogs started publishing as early as in 2005 and are still active. 
 
 One who is a tech maniac can practically see how the product evolved in terms of engineering decisions and technology stack over the years.
 
 This repository hosts the links to all the blogs even those which are no longer updated or are redirected to the new redesigned blogs.
+
+Please submit a pull request or open an issue to add the missing Google developer and engineering blogs. Thank you for the contribution!
 
 <br>
 
