@@ -20,6 +20,8 @@ This repository hosts the links to all the blogs even those which are no longer 
 
 Please submit a pull request or open an issue to add the missing Google developer and engineering blogs. Thank you for the contribution!
 
+The web archive links are for blogs which are no longer published.
+
 <br>
 
 <table border="1">
@@ -30,6 +32,10 @@ Please submit a pull request or open an issue to add the missing Google develope
       </tr>
    </thead>
    <tbody>
+      <tr>
+         <td>https://web.archive.org/web/20101202021925/http://googledataapis.blogspot.com/</td>
+         <td>Official Google Data APIs Blog</td>
+      </tr>
       <tr>
          <td>https://youtube-eng.googleblog.com/2007/12/</td>
          <td>YouTube Engineering and Developers Blog: December 2007</td>
