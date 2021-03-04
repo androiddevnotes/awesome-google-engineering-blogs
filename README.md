@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Google blogs count badge" src="https://badgen.net/badge/Blogs/179?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-google-engineering-blogs/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Google blogs count badge" src="https://badgen.net/badge/Blogs/180?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-google-engineering-blogs/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Google Developer Badge" src="https://badgen.net/badge/Developer/Google?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-google-engineering-blogs/master/assets/google.svg&color=fbbc04"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
 
@@ -32,6 +32,10 @@ The web archive links are for blogs which are no longer published.
       </tr>
    </thead>
    <tbody>
+      <tr>
+         <td>https://drive.googleblog.com/2006_12_01_archive.html</td>
+         <td>Google Drive Blog: December 2006</td>
+      </tr>
       <tr>
          <td>http://googlecode.blogspot.com/</td>
          <td>The official Google Code blog</td>
@@ -445,7 +449,7 @@ The web archive links are for blogs which are no longer published.
          <td>Wszystko o AdWords</td>
       </tr>
       <tr>
-         <td>https://drive.googleblog.com/</td>
+         <td>https://blog.google/products/drive/</td>
          <td>Drive | Google Blog</td>
       </tr>
       <tr>
