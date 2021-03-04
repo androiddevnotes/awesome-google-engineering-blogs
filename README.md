@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Google blogs count badge" src="https://badgen.net/badge/Blogs/180?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-google-engineering-blogs/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Google blogs count badge" src="https://badgen.net/badge/Blogs/181?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-google-engineering-blogs/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Google Developer Badge" src="https://badgen.net/badge/Developer/Google?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-google-engineering-blogs/master/assets/google.svg&color=fbbc04"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
 
@@ -32,6 +32,10 @@ The web archive links are for blogs which are no longer published.
       </tr>
    </thead>
    <tbody>
+      <tr>
+         <td>https://web.archive.org/web/20160417170904/https://webmasters.googleblog.com/</td>
+         <td>Official Google Webmaster Central Blog</td>
+      </tr>
       <tr>
          <td>https://drive.googleblog.com/2006_12_01_archive.html</td>
          <td>Google Drive Blog: December 2006</td>
@@ -473,8 +477,8 @@ The web archive links are for blogs which are no longer published.
          <td>YouTube Official Blog</td>
       </tr>
       <tr>
-         <td>https://webmasters.googleblog.com/</td>
-         <td>Official Google Webmaster Central Blog</td>
+         <td>https://developers.google.com/search/blog/</td>
+         <td>Search & SEO Blog | Google Search Central  |  Google Search Central Blog</td>
       </tr>
       <tr>
          <td>https://developers-id.googleblog.com/</td>
