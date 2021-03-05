@@ -33,6 +33,10 @@ The web archive links are for blogs which are no longer published.
    </thead>
    <tbody>
       <tr>
+         <td>https://techdevguide.withgoogle.com/</td>
+         <td>Google Tech Dev Guide</td>
+      </tr>
+      <tr>
          <td>https://web.archive.org/web/20160417170904/https://webmasters.googleblog.com/</td>
          <td>Official Google Webmaster Central Blog</td>
       </tr>
