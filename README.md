@@ -33,6 +33,10 @@ The web archive links are for blogs which are no longer published.
    </thead>
    <tbody>
       <tr>
+         <td>https://coursebuilder.withgoogle.com/sample/</td>
+         <td>Power Searching with Google</td>
+      </tr>
+      <tr>
          <td>https://developers.google.com/tech-writing</td>
          <td>Google Technical Writing Courses</td>
       </tr>
