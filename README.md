@@ -33,6 +33,10 @@ The web archive links are for blogs which are no longer published.
    </thead>
    <tbody>
       <tr>
+         <td>https://ai.google/education</td>
+         <td>Education – Google AI</td>
+      </tr>
+      <tr>
          <td>https://coursebuilder.withgoogle.com/sample/</td>
          <td>Power Searching with Google</td>
       </tr>
