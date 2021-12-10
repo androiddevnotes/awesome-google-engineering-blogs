@@ -33,6 +33,10 @@ The web archive links are for blogs which are no longer published.
    </thead>
    <tbody>
       <tr>
+         <td>https://www.cloudskillsboost.google/</td>
+         <td>Google Cloud Skills Boost</td>
+      </tr>
+      <tr>
          <td>https://ai.google/education</td>
          <td>Education – Google AI</td>
       </tr>
