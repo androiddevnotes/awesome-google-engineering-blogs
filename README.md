@@ -33,6 +33,10 @@ The web archive links are for blogs which are no longer published.
    </thead>
    <tbody>
       <tr>
+         <td>https://googlecloudcheatsheet.withgoogle.com/</td>
+         <td>Google Cloud Developer cheat sheet</td>
+      </tr>
+      <tr>
          <td>https://www.cloudskillsboost.google/</td>
          <td>Google Cloud Skills Boost</td>
       </tr>
