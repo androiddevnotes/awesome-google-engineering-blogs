@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Google blogs count badge" src="https://badgen.net/badge/Blogs/182?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-google-engineering-blogs/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Google blogs count badge" src="https://badgen.net/badge/Blogs/183?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-google-engineering-blogs/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Google Developer Badge" src="https://badgen.net/badge/Developer/Google?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-google-engineering-blogs/master/assets/google.svg&color=fbbc04"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
 
