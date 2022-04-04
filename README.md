@@ -65,6 +65,10 @@ The web archive links are for blogs which are no longer published.
          <td>Google Tech Dev Guide</td>
       </tr>
       <tr>
+         <td>http://google-engtools.blogspot.com</td>
+         <td>Google Engineering Tools Blog</td>
+      </tr>
+      <tr>
          <td>https://web.archive.org/web/20160417170904/https://webmasters.googleblog.com/</td>
          <td>Official Google Webmaster Central Blog</td>
       </tr>
