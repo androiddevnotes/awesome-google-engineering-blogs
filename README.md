@@ -472,9 +472,9 @@ The web archive links are for blogs which are no longer published.
          <td>https://translate.googleblog.com/</td>
          <td>Translate | Google BlogGoogle Cloud ブログ| ニュース、機能、およびお知らせ | Google Cloud Blog</td>
       </tr>
-      <td>http://cloud-ja.googleblog.com/2007_12_01_archive.html</td>
-      </tr>
-      <td>Google Cloud Japan 公式ブログ: 12月 2007</td>
+      <tr>
+        <td>http://cloud-ja.googleblog.com/2007_12_01_archive.html</td>
+        <td>Google Cloud Japan 公式ブログ: 12月 2007</td>
       </tr>
       <tr>
          <td>https://cloud.google.com/blog/ja</td>
